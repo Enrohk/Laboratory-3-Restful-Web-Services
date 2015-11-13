@@ -63,4 +63,5 @@ public class Person {
 	public URI getHref() {
 		return href;
 	}
+
 }
